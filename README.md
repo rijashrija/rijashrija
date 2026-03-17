@@ -18,6 +18,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rijashrija&theme=tokyonight&hide_border=true)
 
 ## 🌐 Connect with Me
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrija-bajracharya-ba92122b9/)
+- LinkedIn: [https://linkedin.com/in/shrija](https://www.linkedin.com/in/shrija-bajracharya-ba92122b9/)
 
 
