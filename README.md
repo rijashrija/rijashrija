@@ -11,11 +11,13 @@
 - Tools: Git, VS Code
 - Frameworks: React, Node.js
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 📈 GitHub Stats
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Sachin's GitHub Stats](https://github-readme-stats-bay-eight-67.vercel.app/api?username=rijashrija&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-bay-eight-67.vercel.app/api/top-langs/?username=rijashrija&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rijashrija&theme=tokyonight&hide_border=true)
 
 ## 🌐 Connect with Me
 - LinkedIn: https://linkedin.com/in/yourprofile
