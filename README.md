@@ -1,10 +1,8 @@
-# Hi there 👋, I'm Your Name
+# Hi there 👋, I'm Shrija Bajracharya
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: Web Development
-- 💻 I love coding in: Python, JavaScript
-- 🎯 Goal: Become a Full Stack Developer
-- 📫 How to reach me: your@email.com
+- 🌱 I’m currently learning: Web Development (Nextjs, React)
+- 📫 How to reach me: lbajracharya2019@gmail.com
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript, C++
@@ -20,9 +18,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rijashrija&theme=tokyonight&hide_border=true)
 
 ## 🌐 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourwebsite.com
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrija-bajracharya-ba92122b9/)
 
-## 📌 Featured Projects
-- 🔗 Project 1 – Short description
-- 🔗 Project 2 – Short description
+
