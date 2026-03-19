@@ -7,7 +7,7 @@
 ## 🛠️ Skills
 - Languages: Python, JavaScript, C++
 - Tools: Git, VS Code
-- Frameworks: React, Node.js
+- Frameworks: React, Next.js
 
 ## 📈 GitHub Stats
 
