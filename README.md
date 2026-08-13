@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shrija Bajracharya
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: Web Development (Nextjs, React)
+- 🌱 I’m currently learning: Web Development (Nextjs, React, AI/ML)
 - 📫 How to reach me: lbajracharya2019@gmail.com
 
 ## 🛠️ Skills
