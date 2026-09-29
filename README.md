@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Shrija Bajracharya
+shrija.com.np
 
 ## 🚀 About Me
 - 🌱 I’m currently learning: Web Development (Nextjs, React, AI/ML)
