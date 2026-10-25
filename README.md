@@ -2,7 +2,7 @@
 [shrija.com.np](https://shrija.com.np/)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: Web Development (Nextjs, React, AI/ML)
+-  Web Development (Nextjs, React, AI/ML)
 - 📫 How to reach me: lbajracharya2019@gmail.com
 
 ## 🛠️ Skills
